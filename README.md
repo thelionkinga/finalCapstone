@@ -13,6 +13,8 @@ The primary goal of this project was to leverage lists, dictionaries, and functi
 git clone https://github.com/thelionkinga/finalCapstone
 
 2. **Navigate to the project directory:**
+
+
 cd finalCapstone
 
 
