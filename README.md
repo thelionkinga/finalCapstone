@@ -10,7 +10,7 @@ The primary goal of this project was to leverage lists, dictionaries, and functi
 
 1. Clone the repository to your local machine:
 
-[ git clone (https://github.com/thelionkinga/finalCapstone) ]
+git clone https://github.com/thelionkinga/finalCapstone
 
 2. Ensure Python is installed on your system.
 3. Open the project folder in your preferred IDE or text editor.
@@ -34,7 +34,7 @@ The primary goal of this project was to leverage lists, dictionaries, and functi
 
 [HyperionDev](https://www.hyperiondev.com/): Provided the original program 'original_task_manager' for enhancements.<br>
 [Kinga](https://github.com/thelionkinga):
-Addressed syntax errors, runtime issues, and logical inconsistencies in the original codebase.
-Implemented improvements for code readability, modularity, and user experience.
-Introduced new features such as user registration, task management functionalities, and report generation.
-Conducted thorough testing and debugging to ensure the Task Manager's reliability and stability.
+_Addressed syntax errors, runtime issues, and logical inconsistencies in the original codebase.
+_Implemented improvements for code readability, modularity, and user experience.
+_Introduced new features such as user registration, task management functionalities, and report generation.
+_Conducted thorough testing and debugging to ensure the Task Manager's reliability and stability.
