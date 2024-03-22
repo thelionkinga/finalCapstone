@@ -32,7 +32,7 @@ The primary goal of this project was to leverage lists, dictionaries, and functi
 
 ## Credits
 
-[HyperionDev](https://www.hyperiondev.com/): Provided the original program 'original_task_manager' for enhancements.
+[HyperionDev](https://www.hyperiondev.com/): Provided the original program 'original_task_manager' for enhancements.<br>
 [Kinga](https://github.com/thelionkinga):
 Addressed syntax errors, runtime issues, and logical inconsistencies in the original codebase.
 Implemented improvements for code readability, modularity, and user experience.
