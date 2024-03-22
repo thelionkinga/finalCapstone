@@ -11,9 +11,10 @@ The primary goal of this project was to leverage lists, dictionaries, and functi
 1. Clone the repository to your local machine:
 
 git clone https://github.com/thelionkinga/finalCapstone
-
-2. Ensure Python is installed on your system.
-3. Open the project folder in your preferred IDE or text editor.
+2. Navigate to the project directory:
+cd finalCapstone
+3. Ensure Python is installed on your system.
+4. Open the project folder in your preferred IDE or text editor.
 
 ## Usage
 
