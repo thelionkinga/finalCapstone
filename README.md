@@ -34,7 +34,7 @@ git clone https://github.com/thelionkinga/finalCapstone
 
 [HyperionDev](https://www.hyperiondev.com/): Provided the original program 'original_task_manager' for enhancements.<br>
 [Kinga](https://github.com/thelionkinga):
-_Addressed syntax errors, runtime issues, and logical inconsistencies in the original codebase.
-_Implemented improvements for code readability, modularity, and user experience.
-_Introduced new features such as user registration, task management functionalities, and report generation.
-_Conducted thorough testing and debugging to ensure the Task Manager's reliability and stability.
+_ Addressed syntax errors, runtime issues, and logical inconsistencies in the original codebase.
+_ Implemented improvements for code readability, modularity, and user experience.
+_ Introduced new features such as user registration, task management functionalities, and report generation.
+_ Conducted thorough testing and debugging to ensure the Task Manager's reliability and stability.
